@@ -29,6 +29,10 @@ screen = pygame.display.set_mode((410, 500))
 
 使用`PyInstaller`即可，先安装，然后运行`bulid.cmd`，等待运行完成后，打包好的程序在运行目录下的`dist`文件夹中。
 
+# 运行图片
+
+![](https://github.com/user-attachments/assets/04426200-4fca-4c50-98a4-25efdc34d67d)
+
 # License
 
 [MIT](https://github.com/yzl3014/py2048game/blob/main/LICENSE)
